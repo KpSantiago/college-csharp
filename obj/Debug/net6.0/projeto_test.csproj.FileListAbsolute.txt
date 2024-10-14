@@ -1,0 +1,15 @@
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\bin\Debug\net6.0\projeto_test.exe
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\bin\Debug\net6.0\projeto_test.deps.json
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\bin\Debug\net6.0\projeto_test.runtimeconfig.json
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\bin\Debug\net6.0\projeto_test.dll
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\bin\Debug\net6.0\projeto_test.pdb
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\obj\Debug\net6.0\projeto_test.csproj.AssemblyReference.cache
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\obj\Debug\net6.0\projeto_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\obj\Debug\net6.0\projeto_test.AssemblyInfoInputs.cache
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\obj\Debug\net6.0\projeto_test.AssemblyInfo.cs
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\obj\Debug\net6.0\projeto_test.csproj.CoreCompileInputs.cache
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\obj\Debug\net6.0\projeto_test.dll
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\obj\Debug\net6.0\refint\projeto_test.dll
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\obj\Debug\net6.0\projeto_test.pdb
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\obj\Debug\net6.0\projeto_test.genruntimeconfig.cache
+C:\Users\santi\Documents\programming\Estudos\.net-bootcamp\projeto_test\obj\Debug\net6.0\ref\projeto_test.dll
